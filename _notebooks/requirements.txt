@@ -3,3 +3,5 @@ bs4
 jupyter-dash
 dash-cytoscape
 jupyterlab-dash
+networkx
+matplotlib.pyplot
